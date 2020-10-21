@@ -19,6 +19,7 @@ Here are links to some of those other SIMD packages.
 https://github.com/jratcliff63367/sse2neon/blob/master/SSE2NEON.h
 https://docs.microsoft.com/en-us/windows/win32/dxmath/directxmath-portal
 https://developer.apple.com/documentation/accelerate/working_with_vectors
+http://www.virtualdub.org/blog/pivot/entry.php?id=229#body
 
 To compile these, I used the following commands:
 
